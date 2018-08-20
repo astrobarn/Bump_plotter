@@ -1,0 +1,6 @@
+To further understand the physics behind the secondary maximum in the r-band we run our code trough 4500 radiative transfer models from Goldstein \& Kasen 2018. We find that there is a correlation between the \bump and the total mass in all models that show a ``bump" rather than a ``shoulder" as shown in figure \ref{model_masses}. 
+
+It is important to note that the models give an exaggerated bump in most cases and for higher masses than $0.3 M_{solar}$ and thus do not accurately reproduce the observables. Despite this limitation we believe that this correlation shows that there is physics to be unveiled in the secondary maximum in the r-band. 
+
+
+\item We also find a correlation between \bump and total mass when examining the light-curves in the r-band from the Goldstein \& Kasen models for masses larger than $0.3 \hspace{2mm} M_{solar}$. We note that the shape of the light-curves in the r-band in the models do not agree with our observations. 
